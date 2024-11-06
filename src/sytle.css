@@ -1,0 +1,21 @@
+p{
+    color: aqua;
+    background-color: rgb(61, 42, 165);
+    padding: 20px;
+    margin: 10px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 200;
+    font-style: italic;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    line-height: 16px;
+    text-align: justify;
+
+ }
+
+ span{
+    background-color: antiquewhite;
+    font-style: italic;
+    font-weight: 900;
+ }
